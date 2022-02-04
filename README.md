@@ -9,7 +9,7 @@ Learn all about discord.js! Based on easy exercises we teach you easily and quic
 5. Try to get the code working as much as possible!
 
 ## 💻・TechPoint Network
-**Discord** [https://discord.gg/techpoint](https://discord.gg/techpoint)
+**Discord** [https://discord.gg/techpoint](https://discord.gg/techpoint) \n
 **Instagram** [https://www.instagram.com/techpoint.official/](https://www.instagram.com/techpoint.official/)
 
 ## 📑- License
